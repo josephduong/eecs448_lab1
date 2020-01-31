@@ -1,3 +1,7 @@
 A long time ago, in a galaxy far, far away ...
+<<<<<<< HEAD
 there was a ORANGE
+=======
+there was a APPLE
+>>>>>>> luke
 He then became best friends with Han Solo.
